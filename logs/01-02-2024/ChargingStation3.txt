@@ -4,3 +4,7 @@ February 01, 2024 14:46:44     Reserve Battery of User-5 vehicle has finished ch
 February 01, 2024 14:46:45     Reserve Battery of User-5 vehicle has finished charging at this station.
 February 01, 2024 15:52:35     Reserve Battery of User-5 vehicle has started charging at this station.
 February 01, 2024 15:52:41     Reserve Battery of User-5 vehicle has finished charging at this station.
+February 01, 2024 16:01:39     Reserve Battery of User-4 vehicle has started charging at this station.
+February 01, 2024 16:01:44     Reserve Battery of User-4 vehicle has finished charging at this station.
+February 01, 2024 16:02:42     Reserve Battery of User-5 vehicle has started charging at this station.
+February 01, 2024 16:02:47     Reserve Battery of User-5 vehicle has finished charging at this station.
