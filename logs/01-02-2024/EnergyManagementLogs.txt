@@ -1,0 +1,15 @@
+February 01, 2024 14:34:03     Reserve battery of User-1 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+February 01, 2024 14:34:06     Reserve battery of User-2 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+February 01, 2024 14:34:10     Reserve battery of User-3 vehicle is getting energy from Solar because the weather is Sunny.
+February 01, 2024 14:34:14     Reserve battery of User-4 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+February 01, 2024 14:34:17     Reserve battery of User-5 vehicle is getting energy from Solar because the weather is Sunny.
+February 01, 2024 14:46:32     Reserve battery of User-1 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+February 01, 2024 14:46:32     Reserve battery of User-2 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+February 01, 2024 14:46:32     Reserve battery of User-1 vehicle is getting energy from Solar because the weather is Sunny.
+February 01, 2024 14:46:33     Reserve battery of User-2 vehicle is getting energy from Solar because the weather is Sunny.
+February 01, 2024 14:46:37     Reserve battery of User-3 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+February 01, 2024 14:46:37     Reserve battery of User-3 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+February 01, 2024 14:46:38     Reserve battery of User-4 vehicle is getting energy from Solar because the weather is Sunny.
+February 01, 2024 14:46:39     Reserve battery of User-4 vehicle is getting energy from Electrical Grid because the weather is Cloudy.
+February 01, 2024 14:46:39     Reserve battery of User-5 vehicle is getting energy from Solar because the weather is Sunny.
+February 01, 2024 14:46:40     Reserve battery of User-5 vehicle is getting energy from Electrical Grid because the weather is Cloudy.

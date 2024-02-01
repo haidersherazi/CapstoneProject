@@ -1,0 +1,14 @@
+February 01, 2024 14:34:03     Reserve Battery of User-1 vehicle has started charging at this station.
+February 01, 2024 14:34:08     Reserve Battery of User-1 vehicle has finished charging at this station.
+February 01, 2024 14:34:10     Reserve Battery of User-3 vehicle has started charging at this station.
+February 01, 2024 14:34:15     Reserve Battery of User-3 vehicle has finished charging at this station.
+February 01, 2024 14:34:17     Reserve Battery of User-5 vehicle has started charging at this station.
+February 01, 2024 14:34:22     Reserve Battery of User-5 vehicle has finished charging at this station.
+February 01, 2024 14:46:32     Reserve Battery of User-2 vehicle has started charging at this station.
+February 01, 2024 14:46:33     Reserve Battery of User-2 vehicle has started charging at this station.
+February 01, 2024 14:46:37     Reserve Battery of User-2 vehicle has finished charging at this station.
+February 01, 2024 14:46:38     Reserve Battery of User-4 vehicle has started charging at this station.
+February 01, 2024 14:46:38     Reserve Battery of User-2 vehicle has finished charging at this station.
+February 01, 2024 14:46:39     Reserve Battery of User-4 vehicle has started charging at this station.
+February 01, 2024 14:46:43     Reserve Battery of User-4 vehicle has finished charging at this station.
+February 01, 2024 14:46:44     Reserve Battery of User-4 vehicle has finished charging at this station.
