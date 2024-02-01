@@ -49,3 +49,20 @@ February 01, 2024 14:46:44     User-5 has finished charging successfully.
 February 01, 2024 14:46:45     User-5 has finished charging successfully.
 February 01, 2024 14:46:45     System simulation to charge the resserve batteries of vehicles has been finished successfully.
 February 01, 2024 14:46:45     System simulation to charge the resserve batteries of vehicles has been finished successfully.
+February 01, 2024 15:52:22     System simulation to charge the reserve batteries of vehicles has been started.
+February 01, 2024 15:52:26     User-1 has booked the timeslot in our system successfully.
+February 01, 2024 15:52:26     Our System allocated station number 2 to User-1 to charge the reserve battery.
+February 01, 2024 15:52:28     User-2 has booked the timeslot in our system successfully.
+February 01, 2024 15:52:28     Our System allocated station number 1 to User-2 to charge the reserve battery.
+February 01, 2024 15:52:31     User-1 has finished charging successfully.
+February 01, 2024 15:52:31     User-3 has booked the timeslot in our system successfully.
+February 01, 2024 15:52:31     Our System allocated station number 2 to User-3 to charge the reserve battery.
+February 01, 2024 15:52:33     User-2 has finished charging successfully.
+February 01, 2024 15:52:35     User-4 has booked the timeslot in our system successfully.
+February 01, 2024 15:52:35     Our System allocated station number 1 to User-4 to charge the reserve battery.
+February 01, 2024 15:52:35     User-5 has booked the timeslot in our system successfully.
+February 01, 2024 15:52:35     Our System allocated station number 3 to User-5 to charge the reserve battery.
+February 01, 2024 15:52:36     User-3 has finished charging successfully.
+February 01, 2024 15:52:40     User-4 has finished charging successfully.
+February 01, 2024 15:52:41     User-5 has finished charging successfully.
+February 01, 2024 15:52:41     System simulation to charge the resserve batteries of vehicles has been finished successfully.
