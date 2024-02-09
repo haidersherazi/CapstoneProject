@@ -29,3 +29,8 @@ https://github.com/haidersherazi/CapstoneProject/
 ## Youtube Video Link:
 
 https://www.youtube.com/watch?v=ikQ4Oi_rvIs
+
+
+## Project Description:
+
+We Developed simulation of the Car charging station with several alternative sources of energy. Several car charging stations are available that can charge vehicles. Charging one car takes a fixed time. If all places are occupied, the car will not wait for more than 15 minute and will leave the queue. We have simulated the weather conditions to log the situation at the charging station and switch between the energy sources. We have simulate the management system for the energy sources.
