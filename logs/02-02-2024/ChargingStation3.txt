@@ -1,0 +1,2 @@
+February 02, 2024 16:38:19     Reserve Battery of User-3 vehicle has started charging at this station.
+February 02, 2024 16:38:24     Reserve Battery of User-3 vehicle has finished charging at this station.
