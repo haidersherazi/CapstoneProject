@@ -1,0 +1,64 @@
+February 09, 2024 07:36:49     Station number 2 has been assigned to User-1 to charge the reserve battery.
+February 09, 2024 07:36:49     Charge the vehicle with 25 units of energy. Remaining Energy level will be: 75
+February 09, 2024 07:36:51     Station number 1 has been assigned to User-2 to charge the reserve battery.
+February 09, 2024 07:36:51     Charge the vehicle with 21 units of energy. Remaining Energy level will be: 79
+February 09, 2024 07:36:54     Station number 3 has been assigned to User-3 to charge the reserve battery.
+February 09, 2024 07:36:54     Charge the vehicle with 11 units of energy. Remaining Energy level will be: 64
+February 09, 2024 07:36:54     Station number 2 has been assigned to User-5 to charge the reserve battery.
+February 09, 2024 07:36:54     Charge the vehicle with 27 units of energy. Remaining Energy level will be: 67
+February 09, 2024 07:36:56     Station number 1 has been assigned to User-4 to charge the reserve battery.
+February 09, 2024 07:36:56     Charge the vehicle with 27 units of energy. Remaining Energy level will be: 40
+February 09, 2024 07:37:43     Station number 2 has been assigned to User-1 to charge the reserve battery.
+February 09, 2024 07:37:43     Charge the vehicle with 15 units of energy. Remaining Energy level will be: 85
+February 09, 2024 07:37:46     Station number 1 has been assigned to User-2 to charge the reserve battery.
+February 09, 2024 07:37:46     Charge the vehicle with 15 units of energy. Remaining Energy level will be: 85
+February 09, 2024 07:37:48     Station number 2 has been assigned to User-3 to charge the reserve battery.
+February 09, 2024 07:37:48     Charge the vehicle with 32 units of energy. Remaining Energy level will be: 53
+February 09, 2024 07:37:51     Station number 1 has been assigned to User-4 to charge the reserve battery.
+February 09, 2024 07:37:51     Charge the vehicle with 11 units of energy. Remaining Energy level will be: 104
+February 09, 2024 07:37:54     Station number 2 has been assigned to User-5 to charge the reserve battery.
+February 09, 2024 07:37:54     Charge the vehicle with 30 units of energy. Remaining Energy level will be: 74
+February 09, 2024 07:38:16     Station number 1 has been assigned to User-1 to charge the reserve battery.
+February 09, 2024 07:38:16     Charge the vehicle with 20 units of energy. Remaining Energy level will be: 80
+February 09, 2024 07:38:19     Station number 2 has been assigned to User-2 to charge the reserve battery.
+February 09, 2024 07:38:19     Charge the vehicle with 22 units of energy. Remaining Energy level will be: 58
+February 09, 2024 07:38:22     Station number 1 has been assigned to User-3 to charge the reserve battery.
+February 09, 2024 07:38:22     Charge the vehicle with 10 units of energy. Remaining Energy level will be: 78
+February 09, 2024 07:38:26     Station number 2 has been assigned to User-4 to charge the reserve battery.
+February 09, 2024 07:38:26     Charge the vehicle with 11 units of energy. Remaining Energy level will be: 89
+February 09, 2024 07:38:27     Station number 1 has been assigned to User-5 to charge the reserve battery.
+February 09, 2024 07:38:27     Charge the vehicle with 26 units of energy. Remaining Energy level will be: 112
+February 09, 2024 07:39:06     Station number 2 has been assigned to User-1 to charge the reserve battery.
+February 09, 2024 07:39:06     Charge the vehicle with 24 units of energy. Remaining Energy level will be: 76
+February 09, 2024 07:39:09     Station number 1 has been assigned to User-2 to charge the reserve battery.
+February 09, 2024 07:39:09     Charge the vehicle with 23 units of energy. Remaining Energy level will be: 77
+February 09, 2024 07:39:11     Station number 2 has been assigned to User-3 to charge the reserve battery.
+February 09, 2024 07:39:11     Charge the vehicle with 29 units of energy. Remaining Energy level will be: 48
+February 09, 2024 07:39:13     Station number 3 has been assigned to User-4 to charge the reserve battery.
+February 09, 2024 07:39:13     Charge the vehicle with 31 units of energy. Remaining Energy level will be: 75
+February 09, 2024 07:39:14     Station number 1 has been assigned to User-5 to charge the reserve battery.
+February 09, 2024 07:39:14     Charge the vehicle with 32 units of energy. Remaining Energy level will be: 46
+February 09, 2024 08:03:05     Station number 1 has been assigned to User-1 to charge the reserve battery.
+February 09, 2024 08:03:05     Charge the vehicle with 12 units of energy. Remaining Energy level will be: 88
+February 09, 2024 08:03:07     Station number 2 has been assigned to User-2 to charge the reserve battery.
+February 09, 2024 08:03:07     Charge the vehicle with 34 units of energy. Remaining Energy level will be: 54
+February 09, 2024 08:03:10     Station number 1 has been assigned to User-3 to charge the reserve battery.
+February 09, 2024 08:03:10     Charge the vehicle with 19 units of energy. Remaining Energy level will be: 81
+February 09, 2024 08:03:12     Station number 2 has been assigned to User-4 to charge the reserve battery.
+February 09, 2024 08:03:12     Charge the vehicle with 30 units of energy. Remaining Energy level will be: 51
+February 09, 2024 08:03:13     Station number 3 has been assigned to User-5 to charge the reserve battery.
+February 09, 2024 08:03:13     Charge the vehicle with 26 units of energy. Remaining Energy level will be: 25
+February 09, 2024 08:03:19     Station number 1 has been assigned to User-1 to charge the reserve battery.
+February 09, 2024 08:03:19     Charge the vehicle with 25 units of energy. Remaining Energy level will be: 75
+February 09, 2024 08:03:20     Station number 2 has been assigned to User-2 to charge the reserve battery.
+February 09, 2024 08:03:20     Charge the vehicle with 31 units of energy. Remaining Energy level will be: 69
+February 09, 2024 08:03:32     Station number 2 has been assigned to User-1 to charge the reserve battery.
+February 09, 2024 08:03:32     Charge the vehicle with 21 units of energy. Remaining Energy level will be: 79
+February 09, 2024 08:03:35     Station number 1 has been assigned to User-2 to charge the reserve battery.
+February 09, 2024 08:03:35     Charge the vehicle with 22 units of energy. Remaining Energy level will be: 57
+February 09, 2024 08:03:37     Station number 2 has been assigned to User-3 to charge the reserve battery.
+February 09, 2024 08:03:37     Charge the vehicle with 16 units of energy. Remaining Energy level will be: 71
+February 09, 2024 08:03:40     Station number 1 has been assigned to User-4 to charge the reserve battery.
+February 09, 2024 08:03:40     Charge the vehicle with 23 units of energy. Remaining Energy level will be: 78
+February 09, 2024 08:03:42     Station number 3 has been assigned to User-5 to charge the reserve battery.
+February 09, 2024 08:03:42     Charge the vehicle with 11 units of energy. Remaining Energy level will be: 89

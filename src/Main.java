@@ -17,7 +17,6 @@ public class Main {
 		ChargingSimulator simulator = new ChargingSimulator();
         simulator.simulateCharging();
        
-
         // Create log files
 //        LogFileManager.createLogFile("SystemLog.txt", false);
 //        LogFileManager.createLogFile("ChargingStationLog.txt", false);
