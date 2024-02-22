@@ -1,5 +1,4 @@
 
-
 public class ChargingStation {
 
     private EnergySource energySource;
